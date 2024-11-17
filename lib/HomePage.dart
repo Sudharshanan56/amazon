@@ -107,7 +107,7 @@ class _AmazonhomepageState extends State<Amazonhomepage> {
                                 )
                             ),
                           ),
-                          Text(text[index]),
+                          Text(text[index],style: TextStyle(color: Colors.black),),
                         ],
                       );
 
